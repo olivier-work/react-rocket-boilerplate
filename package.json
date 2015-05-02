@@ -19,7 +19,7 @@
     "node": ">=0.10.26"
   },
   "devDependencies": {
-    "babelify": "^5.0.4",
+    "babelify": "^6.0.2",
     "browser-sync": "^2.2.2",
     "browserify": "^5.10.0",
     "debowerify": "^1.2.0",

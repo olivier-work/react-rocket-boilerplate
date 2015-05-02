@@ -5,7 +5,7 @@ var Router = require('react-router');
 
 var routes = require('./Routes');
 
-if ( process.env.NODE_ENV !== 'production' ) {
+if(process.env.NODE_ENV !== 'production' ) {
   // Enable React devtools
   window.React = React;
 }
